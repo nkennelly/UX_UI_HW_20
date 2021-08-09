@@ -1,0 +1,64 @@
+
+
+.nav{
+    float: right;
+}
+
+body{
+    background: linear-gradient(89.47deg, #F2F1F1 0.78%, #D8D8DD 46.19%, #BCC6D1 99.86%);
+}
+
+
+.jumbotron{
+display: inline-block;
+}
+
+#wecycle_logo{
+    text-align: right   ;
+}
+
+
+#iphone{
+    max-width: 600px;
+    height: auto;
+}
+
+h2{
+    color: #EE7046;
+    font-size: 42px;
+}
+ h3{
+     color: black;
+     font-size: 16px;
+ }
+
+ .pink-bg{
+     background-color: #F2ECEC;
+     padding: 30px;
+     height: 600px; 
+     width: auto;
+ }
+
+ .white-bg{
+     background-color: white;
+     padding: 30px;
+     height: 600px; 
+     width: auto;
+ }
+
+ p{
+     color: #595959;
+     font-size: 24px;
+ }
+
+ .quote{
+     color: #F79980;
+     font-size: 48px;
+     vertical-align: middle;
+ }
+
+ img{
+     max-width: 100%;
+     max-height: 100%;
+ }
+
